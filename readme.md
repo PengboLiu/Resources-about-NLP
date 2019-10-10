@@ -46,9 +46,15 @@
 
 [Transformer 模型的 PyTorch 实现](https://juejin.im/post/5b9f1af0e51d450e425eb32d)
 
+[哈佛大学的Transformer实现](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+
 [Details Need More Attention: Transformer 没有被提到的细节](https://zhuanlan.zhihu.com/p/79987949)
 
 [NLPer看过来，一些关于Transformer的问题整理](https://www.nowcoder.com/discuss/258321?type=post&order=hot&pos=&page=1)
+
+[Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
+
+
 
 ## 词向量
 
