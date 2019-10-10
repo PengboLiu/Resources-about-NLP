@@ -22,25 +22,25 @@
 
 ## Deep Learning
 
-### Deep Learning基础
+#### Deep Learning基础
 
 [RNN](https://blog.csdn.net/zhaojc1995/article/details/80572098)
 
-### PyTorch
+#### PyTorch
 
 [LSTM细节分析理解（pytorch版）](<https://zhuanlan.zhihu.com/p/79064602>)
 
-### 文本分类
+#### 文本分类
 
 [在文本分类任务中，有哪些论文中很少提及却对性能有重要影响的tricks？](https://www.zhihu.com/question/265357659)
 
-### 语义相似度
+#### 语义相似度
 
 [深度学习解决 NLP 问题：语义相似度计算](https://cloud.tencent.com/developer/article/1005600)
 
 [浅析文本相似度](https://blog.csdn.net/qq_28031525/article/details/79596376)
 
-### Seq2Seq & Transfomer & Attention
+#### Seq2Seq & Transfomer & Attention
 
 [真正的完全图解Seq2Seq Attention模型](https://zhuanlan.zhihu.com/p/40920384)
 
