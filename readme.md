@@ -82,7 +82,7 @@
 
 ## 数学基础
 
-[**distribution-is-all-you-need](https://github.com/graykode/distribution-is-all-you-need)
+[distribution-is-all-you-need](https://github.com/graykode/distribution-is-all-you-need)
 
 
 
