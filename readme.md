@@ -2,7 +2,9 @@
 
 ## Machine Learning
 
-[CART决策树](https://www.cnblogs.com/pinard/p/6053344.html)
+[决策树算法原理(上)](https://www.cnblogs.com/pinard/p/6050306.html)
+
+[决策树算法原理(下)](https://www.cnblogs.com/pinard/p/6053344.html)
 
 [RF、GBDT、XGBoost面试级整理](https://blog.csdn.net/qq_28031525/article/details/70207918)
 
