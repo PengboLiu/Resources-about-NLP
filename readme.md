@@ -32,7 +32,7 @@
 
 [LSTM细节分析理解（pytorch版）](<https://zhuanlan.zhihu.com/p/79064602>)
 
-[RNN/LSTM BPTT详细推导以及梯度消失问题分析](RNN/LSTM BPTT详细推导以及梯度消失问题分析)
+[RNN/LSTM BPTT详细推导以及梯度消失问题分析](https://zhuanlan.zhihu.com/p/85776566)
 
 [PyTorch 训练 RNN 时，序列长度不固定怎么办？](https://zhuanlan.zhihu.com/p/59772104)
 
