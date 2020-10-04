@@ -6,11 +6,13 @@
 
 [决策树算法原理(下)](https://www.cnblogs.com/pinard/p/6053344.html)
 
+[这可能是你看过的最用心的【决策树算法】介绍文章](https://zhuanlan.zhihu.com/p/32053821)
+
 [RF、GBDT、XGBoost面试级整理](https://blog.csdn.net/qq_28031525/article/details/70207918)
 
-[机器学习面试之各种优化器的比较](https://www.jianshu.com/p/ee39eca29117)
+[通俗理解kaggle比赛大杀器xgboost](https://www.julyedu.com/question/big/kp_id/23/ques_id/2590)
 
-[对Focal Loss的认识](http://skyhigh233.com/blog/2018/04/04/focalloss/)
+[机器学习面试之各种优化器的比较](https://www.jianshu.com/p/ee39eca29117)
 
 [简单的交叉熵损失函数，你真的懂了吗？](https://zhuanlan.zhihu.com/p/38241764)
 
@@ -18,21 +20,23 @@
 
 [EM-最大期望算法](http://www.csuldw.com/2015/12/02/2015-12-02-EM-algorithms/)
 
-[通俗理解kaggle比赛大杀器xgboost](https://www.julyedu.com/question/big/kp_id/23/ques_id/2590)
-
 [为什么L1稀疏L2平滑？](https://blog.csdn.net/li8zi8fa/article/details/77649973)
-
-[这可能是你看过的最用心的【决策树算法】介绍文章](https://zhuanlan.zhihu.com/p/32053821)
 
 ## Deep Learning
 
-#### Deep Learning基础
+#### RNN
 
 [RNN](https://blog.csdn.net/zhaojc1995/article/details/80572098)
 
-#### PyTorch
+[RNN - LSTM - GRU](https://zhuanlan.zhihu.com/p/60915302)
 
 [LSTM细节分析理解（pytorch版）](<https://zhuanlan.zhihu.com/p/79064602>)
+
+[RNN/LSTM BPTT详细推导以及梯度消失问题分析](RNN/LSTM BPTT详细推导以及梯度消失问题分析)
+
+[PyTorch 训练 RNN 时，序列长度不固定怎么办？](https://zhuanlan.zhihu.com/p/59772104)
+
+[RNN 的梯度消失问题](https://zhuanlan.zhihu.com/p/44163528)
 
 #### 文本分类
 
@@ -62,6 +66,10 @@
 
 [为什么Transformer 需要进行 Multi-head Attention？](https://www.zhihu.com/question/341222779)
 
+#### 训练技巧
+
+[对Focal Loss的认识](http://skyhigh233.com/blog/2018/04/04/focalloss/)
+
 ## 词向量
 
 [nlp中的词向量对比：word2vec/glove/fastText/elmo/GPT/bert](https://zhuanlan.zhihu.com/p/56382372)
@@ -69,6 +77,8 @@
 [doc2vec原理及实践](https://blog.csdn.net/John_xyz/article/details/79208564)
 
 [GloVe与word2vec的区别](<https://zhuanlan.zhihu.com/p/31023929>)
+
+[Word2vec数学原理全家桶](https://shomy.top/2017/07/28/word2vec-all/)
 
 ## NLP传统模型
 
@@ -88,8 +98,6 @@
 
 [distribution-is-all-you-need](https://github.com/graykode/distribution-is-all-you-need)
 
-
-
 ## 比赛经验
 
 [AI Challenger 2018 文本挖掘类竞赛相关解决方案及代码汇总](http://www.52nlp.cn/ai-challenger-2018-%E6%96%87%E6%9C%AC%E6%8C%96%E6%8E%98%E7%B1%BB%E7%AB%9E%E8%B5%9B%E7%9B%B8%E5%85%B3%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E5%8F%8A%E4%BB%A3%E7%A0%81%E6%B1%87%E6%80%BB)
@@ -100,20 +108,16 @@
 
 [AI Challenger 2018 细粒度用户评论情感分析，排名17th](https://github.com/BigHeartC/Al_challenger_2018_sentiment_analysis)
 
+## 大数据题
 
+[海量数据中找出前k大数（topk问题）](https://zhuanlan.zhihu.com/p/119385223)
 
-## 面经
+[教你如何迅速秒杀掉：99%的海量数据处理面试题](https://blog.csdn.net/v_JULY_v/article/details/7382693)
 
-[2018-暑期实习生-自然语言处理算法岗-面试题](https://blog.csdn.net/qq_28031525/article/details/80028055)
+https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 
-[2019秋招｜11家互联网公司，NLP面经回馈](https://zhuanlan.zhihu.com/p/46999592)
+## 智力题
 
-[国内大互联网公司深度学习面试题](https://zhuanlan.zhihu.com/p/28290988)
+[热门智力题 过桥问题和倒水问题](https://blog.csdn.net/MoreWindows/article/details/7481851)
 
-[woaidapaopao的博客](https://blog.csdn.net/woaidapaopao)
-
-[路曼曼其修远兮的知乎专栏](<https://zhuanlan.zhihu.com/jiqixuexi>)
-
-[DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
-
-[Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
+[六道腾讯、百度、美团常爱问的面试智力题和答案](https://cloud.tencent.com/developer/article/1528465)
